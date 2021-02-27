@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeFighter</string>
+    <string name="yourScore">Your score: %1$d</string>
+    <string name="tapMe">Tap Me!</string>
+    <string name="timeLeft">Time left: %1$d</string>
+    <string name="gameOverMessage">Times up! you scored: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">TimeFighter</string>
+    <string name="aboutMessage">Created by MSR</string>
+</resources>
